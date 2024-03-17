@@ -8,7 +8,7 @@ from langchain.callbacks.manager import CallbackManagerForLLMRun
 from langchain.llms.base import LLM
 
 
-# THIS IS A CUSTOM LLM WRAPPER Based on hugchat library
+# THIS IS A CUSTOM LLM WRAPPER Based on hugchat library 
 # Reference :
 # - Langchain custom LLM wrapper : https://python.langchain.com/docs/modules/model_io/models/llms/how_to/custom_llm
 # - HugChat library : https://github.com/Soulter/hugging-chat-api
