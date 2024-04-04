@@ -1,4 +1,4 @@
-from hugchat import hugchatfrom hugchat import hugchatfrom hugchat import hugchat
+from hugchat import hugchatfrom hugchat import hugchatfro
 
 import time 
 
