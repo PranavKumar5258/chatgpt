@@ -1,4 +1,5 @@
-
+"""
+This file contains the template for the prompt to be used for injecting the context into the model.
 
 With this technique we can use different plugin for different type of question and answer.
 Like :
